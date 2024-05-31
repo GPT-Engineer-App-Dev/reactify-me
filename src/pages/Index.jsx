@@ -25,6 +25,9 @@ const Index = () => {
           <Link as={RouterLink} to="/contact" margin="0 1rem">
             Contact
           </Link>
+          <Link as={RouterLink} to="/events" margin="0 1rem">
+            Events
+          </Link>
         </Flex>
       </Flex>
       <Container
